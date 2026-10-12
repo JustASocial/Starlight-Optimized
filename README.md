@@ -12,7 +12,7 @@ Optimized build of the Starlight Interface Suite (+ usage example).
 Load order:
 
 ```lua
-local Starlight = loadstring(game:HttpGet("https://raw.githubusercontent.com/<you>/Starlight-Optimized/main/Source.lua"))()
+local Starlight = loadstring(game:HttpGet("https://raw.githubusercontent.com/JustASocial/Starlight-Optimized/main/Source.lua"))()
 ```
 
 Original project by Nebula Softworks. See `LICENSE`.
